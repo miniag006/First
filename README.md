@@ -1,4 +1,4 @@
 # First
 This is my first Repository.
 <br>
-Author - Mini Agarwal
+Author - Mini (Agarwal)
